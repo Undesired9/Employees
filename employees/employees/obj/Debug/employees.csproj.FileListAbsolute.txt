@@ -1,0 +1,9 @@
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\bin\Debug\employees.exe.config
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\bin\Debug\employees.exe
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\bin\Debug\employees.pdb
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.Form1.resources
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.Properties.Resources.resources
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.exe
+c:\users\user\onedrive\documents\visual studio 2012\Projects\employees\employees\obj\Debug\employees.pdb
